@@ -1,0 +1,86 @@
+2018-09-15 22:55:41,311 -keras_dpm-INFO-transfer_learning:加载配置cfg：-1
+2018-09-15 22:55:41,316 -keras_dpm-INFO-transfer_learning:data_dir            :   G:\pic_data\dpm_split_10
+2018-09-15 22:55:41,316 -keras_dpm-INFO-transfer_learning:_id                 :   5b9d1cb05562771b7cfe616b
+2018-09-15 22:55:41,317 -keras_dpm-INFO-transfer_learning:target_size         :   [299, 299]
+2018-09-15 22:55:41,317 -keras_dpm-INFO-transfer_learning:cfg_time            :   2018-09-15 22:52:32
+2018-09-15 22:55:41,317 -keras_dpm-INFO-transfer_learning:learn_type          :   tl
+2018-09-15 22:55:41,317 -keras_dpm-INFO-transfer_learning:batch_size          :   16
+2018-09-15 22:55:41,317 -keras_dpm-INFO-transfer_learning:comment             :   dpm_n10_inceptionv3_e20_b16_tl_test_tensorborad
+2018-09-15 22:55:41,362 -keras_dpm-INFO-transfer_learning:dataset             :   dpm_type
+2018-09-15 22:55:41,362 -keras_dpm-INFO-transfer_learning:num_class           :   10
+2018-09-15 22:55:41,362 -keras_dpm-INFO-transfer_learning:cfg_id              :   17
+2018-09-15 22:55:41,362 -keras_dpm-INFO-transfer_learning:keras_model_dir     :   G:\keras_model
+2018-09-15 22:55:41,362 -keras_dpm-INFO-transfer_learning:model_name          :   inception_v3
+2018-09-15 22:55:41,362 -keras_dpm-INFO-transfer_learning:epoches             :   10
+2018-09-15 22:55:41,364 -keras_dpm-INFO-transfer_learning:开始编号14实验
+2018-09-15 23:00:45,970 -keras_dpm-INFO-transfer_learning:加载配置cfg：-1
+2018-09-15 23:00:45,970 -keras_dpm-INFO-transfer_learning:comment             :   dpm_n10_inceptionv3_e20_b16_tl_test_tensorborad
+2018-09-15 23:00:45,970 -keras_dpm-INFO-transfer_learning:data_dir            :   G:\pic_data\dpm_split_10
+2018-09-15 23:00:45,970 -keras_dpm-INFO-transfer_learning:cfg_time            :   2018-09-15 22:52:32
+2018-09-15 23:00:45,970 -keras_dpm-INFO-transfer_learning:batch_size          :   16
+2018-09-15 23:00:45,970 -keras_dpm-INFO-transfer_learning:epoches             :   10
+2018-09-15 23:00:45,970 -keras_dpm-INFO-transfer_learning:target_size         :   [299, 299]
+2018-09-15 23:00:45,971 -keras_dpm-INFO-transfer_learning:cfg_id              :   17
+2018-09-15 23:00:45,971 -keras_dpm-INFO-transfer_learning:num_class           :   10
+2018-09-15 23:00:45,971 -keras_dpm-INFO-transfer_learning:dataset             :   dpm_type
+2018-09-15 23:00:45,971 -keras_dpm-INFO-transfer_learning:learn_type          :   tl
+2018-09-15 23:00:45,971 -keras_dpm-INFO-transfer_learning:keras_model_dir     :   G:\keras_model
+2018-09-15 23:00:45,971 -keras_dpm-INFO-transfer_learning:model_name          :   inception_v3
+2018-09-15 23:00:45,971 -keras_dpm-INFO-transfer_learning:_id                 :   5b9d1cb05562771b7cfe616b
+2018-09-15 23:00:45,972 -keras_dpm-INFO-transfer_learning:开始编号14实验
+2018-09-15 23:02:19,923 -keras_dpm-INFO-transfer_learning:加载配置cfg：-1
+2018-09-15 23:02:19,923 -keras_dpm-INFO-transfer_learning:model_name          :   inception_v3
+2018-09-15 23:02:19,923 -keras_dpm-INFO-transfer_learning:dataset             :   dpm_type
+2018-09-15 23:02:19,923 -keras_dpm-INFO-transfer_learning:data_dir            :   G:\pic_data\dpm_split_10
+2018-09-15 23:02:19,923 -keras_dpm-INFO-transfer_learning:batch_size          :   16
+2018-09-15 23:02:19,923 -keras_dpm-INFO-transfer_learning:num_class           :   10
+2018-09-15 23:02:19,924 -keras_dpm-INFO-transfer_learning:epoches             :   10
+2018-09-15 23:02:19,924 -keras_dpm-INFO-transfer_learning:cfg_time            :   2018-09-15 22:52:32
+2018-09-15 23:02:19,924 -keras_dpm-INFO-transfer_learning:_id                 :   5b9d1cb05562771b7cfe616b
+2018-09-15 23:02:19,924 -keras_dpm-INFO-transfer_learning:comment             :   dpm_n10_inceptionv3_e20_b16_tl_test_tensorborad
+2018-09-15 23:02:19,924 -keras_dpm-INFO-transfer_learning:learn_type          :   tl
+2018-09-15 23:02:19,924 -keras_dpm-INFO-transfer_learning:cfg_id              :   17
+2018-09-15 23:02:19,924 -keras_dpm-INFO-transfer_learning:target_size         :   [299, 299]
+2018-09-15 23:02:19,924 -keras_dpm-INFO-transfer_learning:keras_model_dir     :   G:\keras_model
+2018-09-15 23:02:19,925 -keras_dpm-INFO-transfer_learning:开始编号14实验
+2018-09-15 23:02:20,564 -keras_dpm-INFO-transfer_learning:进行transfer learning---------------------
+2018-09-15 23:08:45,230 -keras_dpm-ERROR-transfer_learning:If printing histograms, validation_data must be provided, and cannot be a generator.
+2018-09-16 17:36:32,129 -keras_dpm-INFO-transfer_learning:加载配置cfg：-1
+2018-09-16 17:36:32,153 -keras_dpm-INFO-transfer_learning:model_name          :   inception_v3
+2018-09-16 17:36:32,153 -keras_dpm-INFO-transfer_learning:data_dir            :   G:\pic_data\dpm_split_10
+2018-09-16 17:36:32,153 -keras_dpm-INFO-transfer_learning:cfg_time            :   2018-09-15 22:52:32
+2018-09-16 17:36:32,153 -keras_dpm-INFO-transfer_learning:cfg_id              :   17
+2018-09-16 17:36:32,154 -keras_dpm-INFO-transfer_learning:epoches             :   10
+2018-09-16 17:36:32,154 -keras_dpm-INFO-transfer_learning:keras_model_dir     :   G:\keras_model
+2018-09-16 17:36:32,154 -keras_dpm-INFO-transfer_learning:comment             :   dpm_n10_inceptionv3_e20_b16_tl_test_tensorborad
+2018-09-16 17:36:32,154 -keras_dpm-INFO-transfer_learning:_id                 :   5b9d1cb05562771b7cfe616b
+2018-09-16 17:36:32,154 -keras_dpm-INFO-transfer_learning:batch_size          :   16
+2018-09-16 17:36:32,154 -keras_dpm-INFO-transfer_learning:target_size         :   [299, 299]
+2018-09-16 17:36:32,154 -keras_dpm-INFO-transfer_learning:learn_type          :   tl
+2018-09-16 17:36:32,154 -keras_dpm-INFO-transfer_learning:num_class           :   10
+2018-09-16 17:36:32,154 -keras_dpm-INFO-transfer_learning:dataset             :   dpm_type
+2018-09-16 17:36:32,155 -keras_dpm-INFO-transfer_learning:开始编号15实验
+2018-09-16 17:36:33,107 -keras_dpm-INFO-transfer_learning:训练：      3077，验证：      1026，测试      1044
+2018-09-16 17:36:34,052 -keras_dpm-INFO-transfer_learning:进行transfer learning---------------------
+2018-09-16 17:36:56,700 -keras_dpm-ERROR-transfer_learning:Error when checking target: expected dense_2 to have shape (None, 10) but got array with shape (640, 11)
+2018-09-16 17:42:36,365 -keras_dpm-INFO-transfer_learning:加载配置cfg：-1
+2018-09-16 17:42:36,365 -keras_dpm-INFO-transfer_learning:cfg_time            :   2018-09-15 22:52:32
+2018-09-16 17:42:36,366 -keras_dpm-INFO-transfer_learning:batch_size          :   16
+2018-09-16 17:42:36,366 -keras_dpm-INFO-transfer_learning:_id                 :   5b9d1cb05562771b7cfe616b
+2018-09-16 17:42:36,366 -keras_dpm-INFO-transfer_learning:comment             :   dpm_n10_inceptionv3_e20_b16_tl_test_tensorborad
+2018-09-16 17:42:36,366 -keras_dpm-INFO-transfer_learning:cfg_id              :   17
+2018-09-16 17:42:36,366 -keras_dpm-INFO-transfer_learning:learn_type          :   tl
+2018-09-16 17:42:36,366 -keras_dpm-INFO-transfer_learning:dataset             :   dpm_type
+2018-09-16 17:42:36,366 -keras_dpm-INFO-transfer_learning:target_size         :   [299, 299]
+2018-09-16 17:42:36,367 -keras_dpm-INFO-transfer_learning:epoches             :   10
+2018-09-16 17:42:36,367 -keras_dpm-INFO-transfer_learning:data_dir            :   G:\pic_data\dpm_split_10
+2018-09-16 17:42:36,367 -keras_dpm-INFO-transfer_learning:model_name          :   inception_v3
+2018-09-16 17:42:36,367 -keras_dpm-INFO-transfer_learning:num_class           :   10
+2018-09-16 17:42:36,367 -keras_dpm-INFO-transfer_learning:keras_model_dir     :   G:\keras_model
+2018-09-16 17:42:36,368 -keras_dpm-INFO-transfer_learning:开始编号16实验
+2018-09-16 17:42:36,377 -keras_dpm-INFO-transfer_learning:训练：      3077，验证：      1026，测试      1044
+2018-09-16 17:42:36,798 -keras_dpm-INFO-transfer_learning:进行transfer learning---------------------
+2018-09-16 19:41:41,939 -keras_dpm-INFO-transfer_learning:{'val_loss': [3.3044874966144562, 3.4712570101022719, 4.0034912973642349, 3.9614486813545229, 4.5525745809078213, 4.9375638492405418, 5.1440835893154144, 5.3343452885746956, 5.6013218387961388, 5.0399496719241146], 'val_acc': [0.23125000000000001, 0.18906249999999999, 0.13750000000000001, 0.13906250000000001, 0.11562500000000001, 0.10312499999999999, 0.1203125, 0.121875, 0.13125000000000001, 0.14687500000000001], 'loss': [1.1614399728815317, 0.76586189287840878, 0.70578782520473948, 0.61662479718861973, 0.57101583851790094, 0.55045840764514498, 0.52915967049287205, 0.49005047183242911, 0.5124284251580038, 0.50123368653532041], 'acc': [0.64185895353100464, 0.74943126423776552, 0.76080597988924581, 0.79200519988937423, 0.8020799480013, 0.81150471240156152, 0.82352941177439143, 0.83457913556035401, 0.82287942803367065, 0.82775430616171741]}
+2018-09-16 19:41:42,442 -keras_dpm-INFO-transfer_learning:开始evaluate:
+2018-09-16 19:43:19,387 -keras_dpm-INFO-transfer_learning:[0.51317190233318288, 0.82758620689655171]
+2018-09-16 19:43:19,388 -keras_dpm-ERROR-transfer_learning:unsupported operand type(s) for //: 'str' and 'int'
